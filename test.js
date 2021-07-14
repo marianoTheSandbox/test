@@ -1,7 +1,7 @@
 let objetos = {
     martillo : 2,
     clavo : 20,
-    pinza : 2
+    pinza : 4
 }
 
 console.log(objetos);
